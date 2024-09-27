@@ -10,7 +10,7 @@ With a background in computer science and foreign language & culture studies and
 - **Tools & Platforms:** VS Code, Git, GitHub, Auth0 SSO, Netlify, Vercel, Google Cloud Platform
 - **AI:** Experience integrating OpenAI API 3.5/4 and Google Vertex AI API into frontend applications.
 
-## Key Project Repos 📚
+## Key Project Repos ⭐️
 - **[BrianHernandez.net](https://github.com/brianhernandez/brian-hernandez-site):** My personal website and portfolio where I curate presentations of my best development work, publish blog posts on occasion, and showcase my photography.
 
 ## Professional Goals 🚀
