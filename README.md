@@ -1,5 +1,5 @@
 ## Hey, I'm Brian 👋🏼
-I'm a software engineer focused on helping people creating accessible, secure, and scalable user experiences on the web.
+I'm a software engineer focused on helping people create accessible, secure, and scalable user experiences for the web.
 
 ## About Me 👨🏻‍💻
 With a background in computer science and foreign language & culture studies and experiences, I bring an ability to consider multiple perspectives in designing user experiences and problem-solving for business logic requirements.  I value creating good solutions, truthful solutions, and beautiful solutions while collaborating and growing with fellow team members.
@@ -8,7 +8,7 @@ With a background in computer science and foreign language & culture studies and
 - **Languages:** JavaScript, TypeScript, PHP, HTML5, CSS3
 - **Frameworks & Libraries:** TailwindCSS, Vue.js, Nuxt.js, Node.js, Express.js, Google Maps JavaScript API
 - **Tools & Platforms:** VS Code, Git, GitHub, Auth0 SSO, Netlify, Vercel, Google Cloud Platform
-- **AI:** Experience integrating OpenAI API 3.5/4 and Google Vertex AI API into frontend applications.
+- **AI:** Experience integrating OpenAI API and Google Vertex AI API into frontend applications.
 
 ## Key Project Repos ⭐️
 - **[BrianHernandez.net](https://github.com/brianhernandez/brian-hernandez-site):** My personal website and portfolio where I curate presentations of my best development work, publish blog posts on occasion, and showcase my photography.
