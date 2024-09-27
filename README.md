@@ -6,7 +6,7 @@ With a background in computer science and foreign language & culture studies and
 
 ## Technical Skills 🛠️
 - **Languages:** TypeScript, JavaScript, PHP, HTML5, Sass, CSS3
-- **Frameworks & Libraries:** Vue.js, Nuxt.js, Anguar, Node.js, Express.js, TailwindCSS, Google Maps JavaScript API
+- **Frameworks & Libraries:** Vue.js, Nuxt.js, Angular, Node.js, Express.js, TailwindCSS, Google Maps JavaScript API
 - **Tools & Platforms:** VS Code, Git, GitHub, Auth0 SSO, Netlify, Vercel, Firebase, Google Cloud Platform
 - **AI:** Experience integrating OpenAI API and Google Vertex AI API into frontend applications.
 
