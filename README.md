@@ -18,7 +18,7 @@ Google Cloud Platform, Slack, Microsoft Teams, Azure Boards, Jira, Chrome DevToo
 
 ## Professional Goals 🚀
 - **Engineering Development:** Expanding my software engineering skills to encompass more backend development while maintaining frontend expertise.  Also developing expertise with AI integrations, web animations, and data visualizations.
-- **Career Development:** Tacking on more leadership responsibilities as well as cultivating more opportunities of coaching/mentoring engineers junior to me.
+- **Career Development:** Taking on more leadership responsibilities as well as cultivating more opportunities of coaching/mentoring engineers junior to me.
 
 ## Connect with Me 🤝
 - 📫 [Email](mailto:brian.hernandez@gmail.com)
