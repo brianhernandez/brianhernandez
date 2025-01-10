@@ -5,10 +5,16 @@ I'm a frontend engineer focused on helping people create accessible, secure, and
 With a background in computer science and foreign language & culture studies and experiences, I bring an ability to consider multiple perspectives in designing user experiences and problem-solving for business logic requirements.  I value creating good solutions, truthful solutions, and beautiful solutions while collaborating and growing with fellow team members.
 
 ## Technical Skills 🛠️
-- **Languages:** TypeScript, JavaScript, PHP, HTML5, Sass, CSS3
-- **Frameworks & Libraries:** Vue.js, Nuxt.js, Angular, Node.js, Express.js, TailwindCSS, Google Maps JavaScript API
-- **Tools & Platforms:** VS Code, Git, GitHub, Auth0 SSO, Netlify, Firebase, Google Cloud Platform
-- **AI:** Experience integrating OpenAI API and Google Vertex AI API into frontend applications.
+- **Programming Languages:** TypeScript, JavaScript, JSON, Liquid, PHP , HTML5, Sass, CSS3
+- **Frameworks & Libraries:** Vue.js, Nuxt.js, Vuex, Pinia, Vue Router, Vue T est Utils, Vitest, Jest, Angular, Node.js,
+Express.js, Bootstrap, T ailwindCSS, Google Maps JavaScript API, Vite, Webpack, Grunt, Gulp, jQuery
+- **Tools & Platforms:** VS Code, NPM, Git, GitHub, Bitbucket, Auth0 SSO, LaunchDarkly, Sentry, Netlify, Docker, Firebase,
+Google Cloud Platform, Slack, Microsoft T eams, Azure Boards, Jira, Chrome DevT ools, Lighthouse, ChatGPT API
+- **Database Systems:** MongoDB
+- **Engineering Methodologies:** Traditional Scrum, Scrumban
+
+
+
 
 ## Key Project Repos ⭐️
 - **[BrianHernandez.net](https://github.com/brianhernandez/brian-hernandez-site):** My personal website and portfolio where I curate presentations of my best development work, publish blog posts on occasion, and showcase my photography.
@@ -24,8 +30,10 @@ With a background in computer science and foreign language & culture studies and
 Thank you for visiting my GitHub profile.  Let’s connect! 🌎🌍🌏
 
 <!--
-
 - **Data, Animations, & AI:** D3.js, GSAP...
+
+## Other Skills 📸
+Cross-cultural Communication, Problem-solving, Team Collaboration, Mentorship, Spanish, Japanese
 ## Leadership & Advocacy 🌟
 
 **brianhernandez/brianhernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
