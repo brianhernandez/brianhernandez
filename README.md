@@ -5,13 +5,12 @@ I'm a frontend engineer focused on helping people create accessible, secure, and
 With a background in computer science and foreign language & culture studies and experiences, I bring an ability to consider multiple perspectives in designing user experiences and problem-solving for business logic requirements.  I value creating good solutions, truthful solutions, and beautiful solutions while collaborating and growing with fellow team members.
 
 ## Technical Skills 🛠️
-- **Programming Languages:** TypeScript, JavaScript, JSON, Liquid, PHP, HTML5, Sass, CSS3
-- **Frameworks & Libraries:** Vue.js, Nuxt.js, Vuex, Pinia, Vue Router, Vue Test Utils, Vitest, Jest, Angular, Node.js,
-Express.js, Bootstrap, TailwindCSS, Google Maps JavaScript API, Vite, Webpack, Grunt, Gulp, jQuery
-- **Tools & Platforms:** VS Code, NPM, Git, GitHub, Bitbucket, Auth0 SSO, LaunchDarkly, Sentry, Netlify, Docker, Firebase,
-Google Cloud Platform, Slack, Microsoft Teams, Azure Boards, Jira, Chrome DevTools, Lighthouse, ChatGPT API
+- **Programming Languages:** TypeScript, JavaScript ES6+, JSON, Liquid, PHP, HTML5, Sass, CSS3
+- **Frameworks & Libraries:** Vue.js, Nuxt.js, Vuex, NgRx, Pinia, Vue Router, Vue Test Utils, Vitest, Jest, Angular, Node.js, Express.js, Bootstrap, TailwindCSS, PrimeVue UI, Google Maps JavaScript API, Vite, Webpack, Grunt, Gulp, jQuery
+- **Tools & Platforms:** VS Code, NPM, Git, GitHub, GitHub Actions, Bitbucket, Auth0 SSO, LaunchDarkly, Sentry, Netlify, Docker, Firebase, Google Cloud Platform, Slack, Microsoft Teams, Azure Boards, Jira, Chrome DevTools, Lighthouse, ChatGPT API
 - **Database Systems:** MongoDB
-- **Engineering Methodologies:** Traditional Scrum, Scrumban
+- **Engineering Methodologies:** Scrum, Scrumban, Kanban
+- **Other:** Cross-cultural Communication, Problem-solving, Team Collaboration, Mentorship, Spanish, Japanese
 
 ## Key Project Repos ⭐️
 - **[BrianHernandez.net](https://github.com/brianhernandez/brian-hernandez-site):** My personal website and portfolio where I curate presentations of my best development work, publish blog posts on occasion, and showcase my photography.
