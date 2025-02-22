@@ -13,7 +13,7 @@ With a background in computer science and foreign language & culture studies and
 - **Other:** Cross-cultural Communication, Problem-solving, Team Collaboration, Mentorship, Spanish, Japanese
 
 ## Key Project Repos ⭐️
-- **[BrianHernandez.net](https://github.com/brianhernandez/brian-hernandez-site):** My personal website and portfolio where I curate presentations of my best development work, publish blog posts on occasion, and showcase my photography.
+- **[brianhernandez.net](https://github.com/brianhernandez/brian-hernandez-site):** My personal website and portfolio where I curate presentations of my best development work, publish blog posts on occasion, and showcase my photography (work in progress).
 
 ## Professional Goals 🚀
 - **Engineering Development:** Expanding my software engineering skills to encompass more backend development while maintaining my frontend expertise.  Also developing expertise with AI integrations, web animations, and data visualizations.
