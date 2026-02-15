@@ -1,5 +1,5 @@
 ## Hey, I'm Brian 👋🏼
-Thanks for visiting!  I'm a Software Engineer focused on helping people create great experiences for the web.
+Thanks for visiting!  I'm an Agentic Software Engineer focused on helping people create great experiences for the web.
 
 ## About Me 👨🏻‍💻
 With a background in computer science and foreign language & culture studies and experiences, I bring an ability to consider multiple perspectives in designing user experiences and problem-solving for business requirements.  I value creating accessible, performant, and beautiful solutions while collaborating and growing with fellow team members.
