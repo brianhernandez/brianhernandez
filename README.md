@@ -1,35 +1,57 @@
 ## Hey, I'm Brian 👋🏼
-Thanks for visiting!  I'm an Agentic Software Engineer focused on helping people create great experiences for the web.
+I'm a full-stack software engineer with seven years of experience, a product-focused frontend foundation, and an AI-assisted approach to building software. I care about creating accessible, performant, and beautiful products, supported by thoughtful design and engineering practices that prioritize quality, reliability, and security.
 
 ## About Me 👨🏻‍💻
-With a background in computer science and foreign language & culture studies and experiences, I bring an ability to consider multiple perspectives in designing user experiences and problem-solving for business requirements.  I value creating accessible, performant, and beautiful solutions while collaborating and growing with fellow team members.
+I started in digital consulting, building interfaces and reusable components for client projects, then moved into product teams where I took on broader responsibility for architecture, automated testing, and delivery.
+
+Most recently, as Web Development Lead at an AI-driven skincare startup, I led frontend development and worked across backend APIs, AI-powered support, and internal tools. My responsibilities also included releases, production monitoring and error triage, quality gates, code review, and onboarding engineers.
+
+My background in computer science and modern languages and cultures shapes how I approach problem-solving, collaboration, and user experience. Outside engineering, I enjoy photography, travel, and learning languages.
+
+## How I Build 🤖
+I use tools such as Claude Code and Codex to extend what I can build, bringing product intuition, design sensibility, and engineering judgment to the process.
+
+- Turn product requirements into clear designs and implementation plans.
+- Use test-first development to define and validate expected behavior.
+- Combine AI-assisted implementation with cross-model review and my own engineering assessment.
+- Build reusable agent skills and MCP integrations to connect development tools and workflows.
+- Establish automated checks that support accessibility, maintainability, and reliable delivery.
 
 ## Technical Skills 🛠️
-- **Programming Languages:** TypeScript, JavaScript ES6+, JSON, Liquid, PHP, HTML5, Sass, CSS3
-- **Frameworks & Libraries:** Vue.js, Nuxt.js, Vuex, NgRx, Pinia, Vue Router, Vue Test Utils, Vitest, Jest, Angular, Node.js, Express.js, Bootstrap, TailwindCSS, PrimeVue UI, Google Maps JavaScript API, Vite, Webpack, Grunt, Gulp, jQuery
-- **Tools & Platforms:** VS Code, npm, Git, GitHub, GitHub Actions, Bitbucket, Auth0 SSO, LaunchDarkly, Sentry, Netlify, Docker, Firebase, Google Cloud Platform, Slack, Microsoft Teams, Azure Boards, Jira, Chrome DevTools, Lighthouse
-- **Database Systems:** MongoDB
-- **Engineering Methodologies:** Scrum, Scrumban, Kanban
-- **Other:** Cross-cultural Communication, Problem-solving, Team Collaboration, Mentorship, Spanish, Japanese
+- **Languages:** TypeScript, JavaScript, Python, PHP, HTML, Sass, CSS
+- **Frontend:** Vue.js 3, Astro, Nuxt.js 4, Nuxt UI, Vue Router, Pinia, Vuex, Angular, NgRx, Tailwind CSS, PrimeVue, Bootstrap, Google Maps JavaScript API, Vite, Webpack, Grunt, Gulp, Storybook
+- **Backend & Data:** Django (Ninja, Channels), BAML, Node.js, Express.js, PostgreSQL, Stripe
+- **AI Engineering:** Claude Code, Codex, Superpowers skills, MCP servers, LLM evals, Google Vertex AI
+- **Testing, Quality & Accessibility:** Vitest, Jest, Playwright, axe, Lighthouse, ESLint, Prettier, Husky, GitHub Actions, TDD, WCAG 2.1 Accessibility
+- **Platforms & Tools:** Git, GitHub, Bitbucket, Render, Netlify, Docker, Firebase, Google Cloud Platform, AWS, Sentry, PostHog, GA4, Google Tag Manager, Meta Pixel, Auth0, LaunchDarkly, Contentful, Figma, Jira, Sitecore, WordPress
+- **Practices & Methodologies:** Scrum, Scrumban, Kanban, HIPAA/CCPA-aware analytics
+- **Other:** Cross-cultural Communication, Problem-solving, Team Collaboration, Engineering Mentorship, Spanish, Japanese
 
-## Key Project Repos ⭐️
-- **[brianhernandez.net](https://github.com/brianhernandez/brian-hernandez-site):** My personal website and portfolio where I curate presentations of my best development work, publish blog posts on occasion, and showcase my photography (work in progress).
 
-## Professional Goals 🚀
-- **Engineering Development:** Expanding my software engineering skills to encompass more backend development while maintaining my frontend expertise.  Also developing expertise with AI integrations, web animations, and data visualizations.
-- **Career Development:** Taking on more leadership responsibilities as well as cultivating more opportunities for coaching/mentoring engineers more junior to me.
+## Featured Repos ⭐️
+- **[brianhernandez.net Repo](https://github.com/brianhernandez/brian-hernandez-site):** My personal website and portfolio, showcasing development projects, occasional writing, and photography. `Nuxt · Nuxt Content · Netlify`
+
+[Visit site →](https://brianhernandez.net)
+
+## What I'm Focused On 🚀
+- Building thoughtful products across the full stack, from user experience to backend behavior.
+- Developing AI-powered features and improving the workflows used to build and evaluate them.
+- Growing my technical leadership through architecture, code review, mentorship, and engineering standards.
 
 ## Connect with Me 🤝
-- 📫 [Email](mailto:brian.hernandez@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/brianehernandez)
-
 Thank you for visiting my GitHub profile.  Let’s connect! 🌎🌍🌏
+
+- 🔗 [LinkedIn](https://linkedin.com/in/brianehernandez)
+- 🌐 [Portfolio](https://brianhernandez.net)
+
+
 
 <!--
 - **Data, Animations, & AI:** D3.js, GSAP...
+- Add a link to PDF of resume
 
 ## Other Skills 📸
-Cross-cultural Communication, Problem-solving, Team Collaboration, Mentorship, Spanish, Japanese
+
 ## Leadership & Advocacy 🌟
 
 **brianhernandez/brianhernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
