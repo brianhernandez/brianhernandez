@@ -4,7 +4,7 @@ I'm a full-stack software engineer with seven years of experience, a product-foc
 ## About Me 👨🏻‍💻
 I started in digital consulting, building interfaces and reusable components for client projects, then moved into product teams where I took on broader responsibility for architecture, automated testing, and delivery.
 
-Most recently, as Web Development Lead at an AI-driven skincare startup, I led frontend development and worked across backend APIs, AI-powered support, and internal tools. My responsibilities also included releases, production monitoring and error triage, quality gates, code review, and onboarding engineers.
+Most recently, as Web Development Lead at an AI-driven skincare startup, I led frontend development and worked across backend APIs, AI-powered support, and internal tools. My responsibilities also included releases, production monitoring and error triage, quality gates, code review, and onboarded new engineers.
 
 My background in computer science and modern languages and cultures shapes how I approach problem-solving, collaboration, and user experience. Outside engineering, I enjoy photography, travel, and learning languages.
 
@@ -27,11 +27,8 @@ I use tools such as Claude Code and Codex to extend what I can build, bringing p
 - **Practices & Methodologies:** Scrum, Scrumban, Kanban, HIPAA/CCPA-aware analytics
 - **Other:** Cross-cultural Communication, Problem-solving, Team Collaboration, Engineering Mentorship, Spanish, Japanese
 
-
 ## Featured Repos ⭐️
-- **[brianhernandez.net Repo](https://github.com/brianhernandez/brian-hernandez-site):** My personal website and portfolio, showcasing development projects, occasional writing, and photography. `Nuxt · Nuxt Content · Netlify`
-
-[Visit site →](https://brianhernandez.net)
+- **[brianhernandez.net Repo](https://github.com/brianhernandez/brian-hernandez-site):** My personal website and portfolio, showcasing development projects, occasional writing, and photography. [Visit site →](https://brianhernandez.net)
 
 ## What I'm Focused On 🚀
 - Building thoughtful products across the full stack, from user experience to backend behavior.
@@ -43,7 +40,6 @@ Thank you for visiting my GitHub profile.  Let’s connect! 🌎🌍🌏
 
 - 🔗 [LinkedIn](https://linkedin.com/in/brianehernandez)
 - 🌐 [Portfolio](https://brianhernandez.net)
-
 
 
 <!--
